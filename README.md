@@ -29,28 +29,8 @@ The project is structured as a **proper Java application** and can be executed e
 
 ---
 
-## 📁 Project Structure
 
-HuffmanCompression/
-│
-├── src/
-│ └── com/huffman/
-│ ├── Main.java
-│ ├── HuffmanEncoder.java
-│ ├── HuffmanDecoder.java
-│ └── Node.java
-│
-├── input/
-│ └── sample.txt
-│
-├── output/
-│ ├── encoded.bin
-│ └── decoded.txt
-│
-├── README.md
-└── .gitignore
 
----
 
 ## ▶️ How to Run
 
